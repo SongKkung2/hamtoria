@@ -1,0 +1,19 @@
+body{
+    background-color: #fdf2de;
+    font: 16px/1.5 "Maven Pro","Noto Sans KR",sans-serif;
+   
+    
+}
+.form-wrap{
+    background: white;
+    border-radius: 20px;
+    width: 410px;
+    height: 746px;
+    box-shadow: 8px 6px 3px #f8d28e;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+
+}
